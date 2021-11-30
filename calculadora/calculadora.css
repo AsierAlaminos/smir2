@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(0, 136, 226);
+}
+
+.boton{
+    border-radius: 25%;
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-color:darkgrey;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.cero{
+    margin-left: 40%;
+    margin-top: 8%;
+}
+
+.tres, .seis, .nueve, .multip{
+    margin-left: 40%;
+}
